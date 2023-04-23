@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "64457d87f567e5564d6bff69",
+    "name": "Caneta",
+    "quantity": 15,
+    "price": 2,
+    "createdAt": "2023-04-23T18:48:39.999Z",
+    "updatedAt": "2023-04-23T18:48:39.999Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff6c",
+    "name": "Caderno",
+    "quantity": 20,
+    "price": 25,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff6d",
+    "name": "Lapiseira",
+    "quantity": 12,
+    "price": 19.99,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff6a",
+    "name": "Lapis",
+    "quantity": 5,
+    "price": 1.5,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff6b",
+    "name": "Borracha",
+    "quantity": 20,
+    "price": 0.5,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff70",
+    "name": "Sulfite",
+    "quantity": 100,
+    "price": 2.99,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff71",
+    "name": "Canetinha",
+    "quantity": 44,
+    "price": 8,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff72",
+    "name": "Errorex",
+    "quantity": 25,
+    "price": 3,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff6e",
+    "name": "Apontador",
+    "quantity": 9,
+    "price": 5.9,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "64457d87f567e5564d6bff6f",
+    "name": "Pasta",
+    "quantity": 3,
+    "price": 4,
+    "createdAt": "2023-04-23T18:48:40.000Z",
+    "updatedAt": "2023-04-23T18:48:40.000Z",
+    "__v": 0
+  }
+]
